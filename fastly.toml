@@ -7,7 +7,7 @@ description = "Starter Kit for Fastly Connect Meetup"
 language = "javascript"
 manifest_version = 3
 name = "fastly-connect-meetup"
-service_id = ""
+service_id = "Z8s71krj4NsmDbMe7sltV2"
 
 [scripts]
   build = "npm run build"
